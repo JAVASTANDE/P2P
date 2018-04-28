@@ -1,7 +1,7 @@
 # P2P
 P2P Financial lending platform
 
-<h1>项目2-【P2P金融借贷平台】</h1>
+<h1>【P2P金融借贷平台】</h1>
 <pre><code>P2P：金融借贷平台
 
 P2C：产品对客户
